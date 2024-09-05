@@ -1,0 +1,61 @@
+{
+  "blocks": {
+    "total": 2,
+    "offset": 0,
+    "limit": 2,
+    "data": [
+      {
+        "name": "Columns",
+        "path": "/tools/sidekick/blocks/columns/columns"
+      },
+      {
+        "name": "Cards",
+        "path": "/tools/sidekick/blocks/cards/cards"
+      }
+    ]
+  },
+  "tags": {
+    "total": 8,
+    "offset": 0,
+    "limit": 8,
+    "data": [
+      {
+        "tag": "Advisory Services"
+      },
+      {
+        "tag": "Article"
+      },
+      {
+        "tag": "Automation"
+      },
+      {
+        "tag": "Automation and Control"
+      },
+      {
+        "tag": "Broadband and FTTx"
+      },
+      {
+        "tag": "Case Study"
+      },
+      {
+        "tag": "Commercial"
+      },
+      {
+        "tag": "Communications and Networking"
+      }
+    ]
+  },
+  "api-test": {
+    "total": 1,
+    "offset": 0,
+    "limit": 1,
+    "data": [
+      {
+        "foobar": "123"
+      }
+    ]
+  },
+  ":version": 3,
+  ":names": ["blocks", "tags", "api-test"],
+  ":type": "multi-sheet"
+}
