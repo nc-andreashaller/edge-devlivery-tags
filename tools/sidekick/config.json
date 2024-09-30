@@ -16,6 +16,7 @@
         "edit"
       ],
       "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html",
+      "extConfigUrl": "http://localhost:8080/config.json",
       "isPalette": true,
       "includePaths": [ "**.docx**" ],
       "passConfig": true,
